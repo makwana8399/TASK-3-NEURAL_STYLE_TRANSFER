@@ -1,4 +1,4 @@
-# TASK-3- NEURAL STYLE TRANSFER 
+# TASK-3 NEURAL STYLE TRANSFER 
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 
 *NENTOR*: NEELA SANTOSH
 
-# Neural Style Transfer Model 
+# Neural Style Transfer 
 
 This code implements a Neural Style Transfer (NST) algorithm using the pretrained VGG-19 model in PyTorch. NST blends the content of one image with the style of another. The goal is to optimize a target image (initially the content image) by minimizing a combined loss function that incorporates both content and style losses.
 
