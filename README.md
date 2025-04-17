@@ -35,3 +35,9 @@ This model can be used in a variety of fields. In art and design, it allows arti
 The tools and resources used to implement this model include YouTube for tutorials on neural style transfer and the use of VGG-19, ChatGPT for clarifying concepts related to deep learning, GeeksforGeeks for understanding convolutional networks and style transfer, DeepSeek for references on efficient PyTorch implementations, advanced Python knowledge for utilizing PyTorch and tensor operations, and VS Code as the integrated development environment for writing and running the code.
 
 This combination of tools and resources makes it possible to efficiently implement neural style transfer and apply it to a wide range of creative and professional use cases.
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/34cf2def-d1a5-4c89-ad60-e47e3eeeb559)
+![Image](https://github.com/user-attachments/assets/093ce304-2706-45d4-abd9-f4d8dd3415fc)
+![Image](https://github.com/user-attachments/assets/69cd2b05-021f-4e6f-84cd-02e6733b03b1)
